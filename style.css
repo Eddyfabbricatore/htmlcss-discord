@@ -56,6 +56,12 @@ header .topbar .container{
   color: white;
 }
 
+.topbar .logo span a{
+  margin: 10px;
+  text-decoration: none;
+  color: white;
+}
+
 .menu ul{
   list-style: none;
 }
@@ -181,6 +187,12 @@ footer{
 
 .footer-top .social{
   width: 25%;
+  padding: 20px;
+}
+
+.footer-top .social h3{
+  font-size: 2rem;
+  color: #849efb;
 }
 
 .footer-top .menu{

@@ -70,7 +70,7 @@ header .topbar .container{
 }
 
 .btn{
-  padding: 10px 20px;
+  padding: 15px 20px;
   border: none;
   border-radius: 20px;
   background-color: white;
@@ -152,6 +152,11 @@ section:last-child .container{
 
 section:last-child .container h2{
   margin: 40px 0;
+  font-size: 3rem;
+}
+
+#ready{
+  font-size: 2rem;
 }
 
 .btn.btn-ligth{

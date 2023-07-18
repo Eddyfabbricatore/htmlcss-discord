@@ -93,6 +93,18 @@ header .topbar .container{
   max-width: 900px;
 }
 
+#jumbotron .content h1{
+  margin: 20px auto;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+
+#jumbotron .content p{
+  color: white;
+  text-align: center;
+}
+
 
 /* main */
 section, footer{

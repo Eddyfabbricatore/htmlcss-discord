@@ -135,6 +135,15 @@ section .container{
   height: 400px; /* DEBUG */
 }
 
+.small-column{
+  padding: 20px;
+}
+
+.small-column h2{
+  margin: 20px auto;
+  font-size: 3rem;
+}
+
 section:last-child .container{
   flex-direction: column;
   justify-content: space-around;

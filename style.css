@@ -85,7 +85,8 @@ header .topbar .container{
   justify-content: center;
   align-items: center;
   height: 500px;
-  background-color: #255EE9;
+  background-image: url(img/jumbo.png);
+  background-size: cover;
 }
 
 #jumbotron .content{

@@ -52,12 +52,21 @@ header .topbar .container{
   height: 100%;
 }
 
+.topbar .logo span{
+  color: white;
+}
+
 .menu ul{
   list-style: none;
 }
 
 .menu ul li{
   padding: 0 15px;
+}
+
+.menu ul li a{
+  text-decoration: none;
+  color: white;
 }
 
 #jumbotron{

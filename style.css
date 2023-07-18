@@ -195,6 +195,24 @@ footer{
   color: #849efb;
 }
 
+.social .social-content{
+  align-items: center;
+  margin: 20px 0;
+}
+
+.social .social-content img{
+  width: 30px;
+  margin-right: 5px;
+}
+
+.social .social-content span{
+  margin-right: 5px;
+}
+
+.social i{
+  margin-right: 20px;
+}
+
 .footer-top .menu{
   width: 75%;
 }

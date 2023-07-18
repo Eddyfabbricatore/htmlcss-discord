@@ -106,6 +106,25 @@ header .topbar .container{
   text-align: center;
 }
 
+.content .content-btn{
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.content .content-btn .btn{
+  margin: 0 10px;
+}
+
+.btn.btn-black{
+  background-color: black;
+}
+
+.btn.btn-black a{
+  color: white;
+  text-decoration: none;
+}
+
 
 /* main */
 section, footer{

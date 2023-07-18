@@ -76,7 +76,7 @@ header .topbar .container{
 }
 
 .btn{
-  padding: 15px 20px;
+  padding: 10px 20px;
   border: none;
   border-radius: 20px;
   background-color: white;
@@ -180,6 +180,10 @@ footer{
   color: white;
 }
 
+.footer-top{
+  border-bottom: 2px solid #7a8ed7;
+}
+
 .footer-top .social{
   width: 25%;
   padding: 20px;
@@ -227,6 +231,7 @@ footer{
 }
 
 .footer-bottom{
+  margin: 20px 0;
   padding: 10px 0;
   justify-content: space-between;
 }

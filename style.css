@@ -178,11 +178,6 @@ section:last-child .container h2{
 footer{
   background-color: #24272A;
   color: white;
-  height: 600px;  /* DEBUG */
-}
-
-.footer-top{
-  height: 400px;  /* DEBUG */
 }
 
 .footer-top .social{
@@ -219,6 +214,16 @@ footer{
 
 .footer-top .menu .col{
   flex-basis: 25%;
+  padding: 20px;
+}
+
+.footer-top .menu .col p{
+  margin: 20px 0;
+}
+
+.footer-top .menu .col a{
+  color: white;
+  text-decoration: none;
 }
 
 .footer-bottom{

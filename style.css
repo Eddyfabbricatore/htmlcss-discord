@@ -125,14 +125,14 @@ header .topbar .container{
   text-decoration: none;
 }
 
+.btn a i{
+  margin-right: 10px;
+}
+
 
 /* main */
 section, footer{
   padding: 40px 0;
-}
-
-section .container{
-  height: 400px; /* DEBUG */
 }
 
 .small-column{
@@ -148,6 +148,18 @@ section:last-child .container{
   flex-direction: column;
   justify-content: space-around;
   text-align: center;
+}
+
+section:last-child .container h2{
+  margin: 40px 0;
+}
+
+.btn.btn-ligth{
+  background-color: #859ffd;
+}
+
+.btn.btn-ligth a{
+  color: white;
 }
 
 
